@@ -1,0 +1,65 @@
+Q: What is the leave policy?
+A: Employees are allowed 20 paid leaves per year.
+
+Q:How can I apply for maternity leave?
+A:use the HR portal -> Leave requests ->Maternity
+
+Q: When is the salary credited?
+A: Salaries are credited on the last working day of each month.
+
+Q: How many paid leaves do employees get per year?
+A: Employees are entitled to 20 paid leaves annually.
+
+Q: What are the office working hours?
+A: Working hours are from 9:00 AM to 6:00 PM, Monday through Friday.
+
+Q: How do I apply for leave?
+A: You can apply for leave through the company HR portal under the 'Leave Management' section.
+
+Q: What is the notice period for resignation?
+A: The standard notice period is 30 days for all employees.
+
+Q: How can I get my employment verification letter?
+A: You can request it by raising a ticket in the HR portal under 'Documents & Verification'.
+
+Q: How do I update my personal information?
+A: Log into the HRMS system and update your profile details under 'Personal Information'.
+
+Q: Who do I contact for payroll issues?
+A: You can contact the Payroll Team via payrollsupport@company.com.
+
+Q: How do I claim reimbursement for expenses?
+A: Submit your receipts through the 'Expense Claims' tab in the HR portal.
+
+Q: What is the dress code policy?
+A: Business casuals from Monday to Thursday and smart casuals on Fridays.
+
+Q: Are employees eligible for maternity leave?
+A: Yes, female employees are entitled to 26 weeks of paid maternity leave.
+
+Q: What is the process for paternity leave?
+A: Male employees can avail 10 days of paid paternity leave by applying through HRMS.
+
+Q: How is attendance tracked?
+A: Attendance is recorded automatically through biometric or ID card scanning at entry.
+
+Q: What is the company’s remote work policy?
+A: Employees can work remotely up to two days per week with manager approval.
+
+Q: How do I access my payslip?
+A: Payslips are available for download from the HR portal under 'Salary Documents'.
+
+Q: What are the public holidays in a year?
+A: The company publishes a holiday calendar at the beginning of every year on the HR portal.
+
+Q: What is the performance appraisal cycle?
+A: Performance reviews occur twice a year — mid-year and annual.
+
+Q: What benefits does the company offer?
+A: Benefits include health insurance, provident fund, annual bonuses, and paid leave.
+
+Q: How can I update my bank account details?
+A: Update your bank details directly on the HRMS portal under 'Bank Information'.
+
+Q: What should I do if I forget my employee ID card?
+A: Inform HR immediately and request a temporary access pass at the security desk.

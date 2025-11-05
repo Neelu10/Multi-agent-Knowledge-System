@@ -1,0 +1,62 @@
+Q: When is salary credited?
+A: Salaries are credited at the last working day of each month.
+
+Q:How to claim travel reimbursements?
+A: Submit receipts through Finance Portal > Claim
+
+Q: When are reimbursements processed?
+A: Reimbursements are processed within 7 working days after submission approval.
+
+Q: How do I check the status of my expense claim?
+A: You can check claim status in the Finance section of the employee self-service portal.
+
+Q: What is the process for travel expense reimbursement?
+A: Submit all receipts and travel tickets within 10 days of travel completion in the portal.
+
+Q: How do I download my Form 16?
+A: Form 16 is available every financial year-end in the HRMS portal under 'Tax Documents'.
+
+Q: What is TDS?
+A: TDS (Tax Deducted at Source) is income tax deducted by the employer before salary payment.
+
+Q: How can I update my investment declarations?
+A: Use the 'Tax Declaration' module in HRMS to upload your proofs before the due date.
+
+Q: When is the bonus paid?
+A: Annual bonuses are credited along with the March salary each year.
+
+Q: How is gratuity calculated?
+A: Gratuity = (15 * last drawn salary * years of service) / 26.
+
+Q: What are the components of my payslip?
+A: Payslip includes basic pay, HRA, allowances, deductions, and net pay.
+
+Q: How can I change my tax regime (old/new)?
+A: You can switch regimes at the start of every financial year in HRMS.
+
+Q: What is the professional tax deduction?
+A: Professional tax is a small deduction imposed by state governments on salaried individuals.
+
+Q: How to apply for salary advance?
+A: Raise a request through the Finance portal under 'Salary Advance'.
+
+Q: What is the reimbursement policy limit?
+A: The maximum reimbursement limit is ₹50,000 per month for eligible employees.
+
+Q: How can I get a copy of my previous salary slips?
+A: You can download them from the Finance tab in the HRMS portal.
+
+Q: How do I raise a query related to tax deduction?
+A: Mail your query to taxsupport@company.com or raise a ticket in the Finance Helpdesk.
+
+Q: When does the financial year start and end?
+A: The financial year runs from April 1 to March 31.
+
+Q: What are the payroll cutoff dates?
+A: Payroll cutoff is usually on the 25th of each month.
+
+Q: How can I claim medical reimbursement?
+A: Upload medical bills with prescriptions under the 'Healthcare Reimbursement' tab.
+
+Q: Who approves expense reports?
+A: Expense reports are approved by your reporting manager and then verified by Finance.

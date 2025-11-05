@@ -1,0 +1,62 @@
+Q: How to reset password?
+A: Go to IT Helpdesk page -> Forgot password.
+
+Q: How to request a new laptop?
+A: Raise a ticket in IT Support -> Equipment Request.
+
+Q: How do I reset my password?
+A: Visit the self-service password reset portal or contact IT helpdesk.
+
+Q: How to access the VPN?
+A: Use your employee ID and password on the VPN login page. For remote access, enable two-factor authentication.
+
+Q: How to request new hardware?
+A: Raise a hardware request ticket in the IT Support portal under 'Assets'.
+
+Q: What should I do if my system is not booting?
+A: Try restarting and contact IT support if the issue persists.
+
+Q: How do I install company-approved software?
+A: Use the Company App Store or raise a request to IT for installation.
+
+Q: How to set up corporate email on mobile?
+A: Configure Outlook with your corporate credentials and enable company security policies.
+
+Q: What is the Wi-Fi password for employees?
+A: Employee Wi-Fi credentials are available through the IT portal after login verification.
+
+Q: How can I report a phishing email?
+A: Forward the suspicious email to phishing@company.com immediately.
+
+Q: How to get remote desktop access?
+A: Submit a VPN + RDP access request through the IT Helpdesk portal.
+
+Q: What to do if I forget my system login password?
+A: Contact IT Helpdesk for password reset verification.
+
+Q: How to update antivirus?
+A: Antivirus updates are automatic. Ensure your device is connected to the corporate network weekly.
+
+Q: Can I use personal USB drives?
+A: No, personal storage devices are restricted for data security reasons.
+
+Q: What is the company’s data backup policy?
+A: All official files are backed up automatically to OneDrive and SharePoint daily.
+
+Q: How do I access shared network drives?
+A: Access through File Explorer > Network > CompanyShared and use your domain credentials.
+
+Q: What to do if my email storage is full?
+A: Archive old emails or request storage extension from IT support.
+
+Q: What browsers are supported for internal applications?
+A: Chrome and Edge are the recommended browsers for all internal systems.
+
+Q: How to connect to the printer?
+A: Open 'Devices and Printers' → Add Printer → Select your department printer from the list.
+
+Q: How to raise an IT ticket?
+A: Visit ithelpdesk.company.com and click ‘Raise Ticket’.
+
+Q: Who to contact for system upgrade approval?
+A: Contact your project manager, who will forward the request to IT Procurement.
